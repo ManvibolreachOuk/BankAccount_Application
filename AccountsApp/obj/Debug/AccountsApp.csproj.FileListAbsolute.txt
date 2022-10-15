@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\AccountsApp\AccountsApp\obj\Debug\AccountsApp.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\AccountsApp\AccountsApp\obj\Debug\AccountsApp.Properties.Resources.resources
+C:\Users\User\source\repos\AccountsApp\AccountsApp\obj\Debug\AccountsApp.csproj.GenerateResource.cache
+C:\Users\User\source\repos\AccountsApp\AccountsApp\obj\Debug\AccountsApp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AccountsApp\AccountsApp\obj\Debug\AccountsApp.Accounts.resources
+C:\Users\User\source\repos\AccountsApp\AccountsApp\bin\Debug\AccountsApp.exe.config
+C:\Users\User\source\repos\AccountsApp\AccountsApp\bin\Debug\AccountsApp.exe
+C:\Users\User\source\repos\AccountsApp\AccountsApp\bin\Debug\AccountsApp.pdb
+C:\Users\User\source\repos\AccountsApp\AccountsApp\obj\Debug\AccountsApp.exe
+C:\Users\User\source\repos\AccountsApp\AccountsApp\obj\Debug\AccountsApp.pdb
